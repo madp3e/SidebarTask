@@ -1,5 +1,5 @@
 下記コマンドで本プロジェクトをローカルにクローンしてください。
-## ～git clone https://github.com/madp3e/SidebarTask.git
+<h3>～git clone https://github.com/madp3e/SidebarTask.git<h3>
 
 "SidebarTask"というフォルダーができますので、下記コマンドでフォルダーのなかへ
 入ります。
