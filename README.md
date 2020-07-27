@@ -1,20 +1,17 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+下記コマンドで本プロジェクトをローカルにクローンしてください。
+## ～git clone https://github.com/madp3e/SidebarTask.git
 
-## Available Scripts
+"SidebarTask"というフォルダーができますので、下記コマンドでフォルダーのなかへ
+入ります。
+## ～cd SidebarTask
 
-In the project directory, you can run:
+本プロジェクトに必要な "dependecies" をダウンロードする必要がありますので、
+下記コマンドを実行します
+## ～npm install 
 
-### `npm start`
+これで、"node_modules" のフォルダーが作成されます。
+作成したウェブアプリケーションを "localhost:3000" のサーバーから
+アクセスできます。下記コマンドを入れてください。
+## ～npm start
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-本プロジェクトをローカルにクローンしてください。
